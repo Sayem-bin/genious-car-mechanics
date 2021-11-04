@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Replace Tire",
+        "Price": 5000,
+        "time": 2,
+        "img": "https://i.ibb.co/j59w6Sn/Mechanic-with-a-tool-Wheel-in-hands-of-a-mechanic-Blue-work-clothes.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Replace Engines",
+        "Price": 4000,
+        "time": 2,
+        "img": "https://i.ibb.co/Jzx4Yhp/Hands-only-Mechanic-holding-a-tire-at-the-repair-garage-Replacement-of-winter-and-summer-tires.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Replace Pipe",
+        "Price": 3000,
+        "time": 2,
+        "img": "https://i.ibb.co/JsnKTG9/Bearded-man-mechanic-changing-tire-that-are-his-car.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Replace Mirror",
+        "Price": 1000,
+        "time": 2,
+        "img": "https://i.ibb.co/9wdTy7G/Beautiful-young-woman-is-talking-to-handsome-car-mechanic-while-repair-a-car-in-dealership.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Replace Color",
+        "Price": 20800,
+        "time": 2,
+        "img": "https://i.ibb.co/j59w6Sn/Mechanic-with-a-tool-Wheel-in-hands-of-a-mechanic-Blue-work-clothes.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Denting",
+        "Price": 20009,
+        "time": 2,
+        "img": "https://i.ibb.co/JCf4M9r/Close-up-hands-of-unrecognizable-mechanic-doing-car-service-and-maintenance.jpg"
+    }
+]
